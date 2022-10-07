@@ -56,8 +56,7 @@ uni-app实现,可以发布到小程序、h5、安卓、ios。
 ### 乐居项目 用到的组件
 
 + parser 
-+ evan-checkbox 
-注意 该双向绑定的checkbox插件  
++ evan-checkbox   
 包含 uni-transition、uni-popup、uni-icons、evan-checkbox-popup、evan-checkbox-group、evan-checkbox
 
 ### 项目打包
