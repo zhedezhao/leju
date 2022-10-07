@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55356612-c765-412f-9ccf-fdda39f0ebde" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.hbuilderx/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hbuilderx/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/baseUrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/baseUrl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/order/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/order/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/order/order.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/order/order.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/h5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/index.f4fc78fe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/chunk-vendors.ab293c43.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/index.ff01983d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/kindPackage-list-info-info.9ab4f2fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/kindPackage-list-info-info~kindPackage-list-list~orderPackage-orderBack-orderBack~orderPackage-order~7c5463a8.b6b8c1df.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/kindPackage-list-info-info~kindPackage-list-list~pages-find-find~pages-user-car-car.1d76c590.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/kindPackage-list-info-info~pages-find-articleInfo-articleInfo.d9c73602.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/kindPackage-list-list.8e5b9963.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/kindPackage-list-list~pages-order-order.e6240e53.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/orderPackage-orderBack-orderBack.d49557d4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/orderPackage-orderBackInfo-orderBackInfo.81c6a0e3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-find-articleInfo-articleInfo.2141da32.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-find-find.75ba8773.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-home-home.873126c7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-kind-kind.90aff556.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-order-confirmOrder-confirmOrder.a710c1e1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-order-confirmOrder-payResult-payResult.ba5ca3e2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-order-confirmOrder-payment-payment.280e8b78.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-order-order.c55c501e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-user-address-addAddress-addAddress.b94015cb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-user-address-address.fad3d5a5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-user-articleList-articleList.72e8cb0c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-user-car-car.da018096.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-user-collected-collected.3a1e69f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-user-login-login.76a9d7be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-user-login-login~pages-user-register-register~pages-user-resetPassword-resetPassword.823075c5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-user-register-register.b47dc182.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-user-register-register~pages-user-user.59272c7f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-user-resetPassword-resetPassword.e2e380d2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-user-updateUserInfo-updateUserInfo.9c95fc00.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/h5/static/js/pages-user-user.63db0aa9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/common/vendor.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/common/vendor.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/kindPackage/list/info/info.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/kindPackage/list/info/info.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/find/articleInfo/articleInfo.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/find/articleInfo/articleInfo.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/find/find.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/find/find.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/kind/kind.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/kind/kind.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/order/confirmOrder/confirmOrder.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/order/confirmOrder/confirmOrder.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/order/confirmOrder/payment/payment.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/order/confirmOrder/payment/payment.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/order/order.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/order/order.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/user/address/address.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/user/address/address.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/user/articleList/articleList.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/user/articleList/articleList.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/user/car/car.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/user/car/car.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/user/collected/collected.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/user/collected/collected.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/user/register/register.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/user/register/register.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/user/updateUserInfo/updateUserInfo.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/user/updateUserInfo/updateUserInfo.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/user/user.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/user/user.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/common/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/common/vendor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/evan-checkbox/evan-checkbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/evan-checkbox/evan-checkbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/simple-address/simple-address.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/simple-address/simple-address.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/uni-icons/uni-icons.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/uni-icons/uni-icons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/watch-login/watch-button.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/watch-login/watch-button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/watch-login/watch-input.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/watch-login/watch-input.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/watch-login/watch-input.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/watch-login/watch-input.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/kindPackage/list/info/info.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/kindPackage/list/info/info.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/kindPackage/list/info/info.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/kindPackage/list/info/info.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/kindPackage/list/info/info.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/kindPackage/list/info/info.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/kindPackage/list/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/kindPackage/list/list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/kindPackage/list/list.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/kindPackage/list/list.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/find/articleInfo/articleInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/find/articleInfo/articleInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/find/find.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/find/find.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/find/find.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/find/find.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/kind/kind.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/kind/kind.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/order/confirmOrder/confirmOrder.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/order/confirmOrder/confirmOrder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/order/confirmOrder/payment/payment.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/order/confirmOrder/payment/payment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/order/order.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/order/order.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/order/order.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/order/order.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/address/address.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/address/address.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/articleList/articleList.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/articleList/articleList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/car/car.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/car/car.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/collected/collected.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/collected/collected.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/login/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/login/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/register/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/register/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/register/register.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/register/register.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/resetPassword/resetPassword.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/resetPassword/resetPassword.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/updateUserInfo/updateUserInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/updateUserInfo/updateUserInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/user/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/project.config.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="25E34LCDYetEHcsN9zO3mJRPxVJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55356612-c765-412f-9ccf-fdda39f0ebde" name="默认更改列表" comment="" />
+      <created>1645078225439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645078225439</updated>
+      <workItem from="1645078230066" duration="3000" />
+    </task>
+    <servers />
+  </component>
+</project>
